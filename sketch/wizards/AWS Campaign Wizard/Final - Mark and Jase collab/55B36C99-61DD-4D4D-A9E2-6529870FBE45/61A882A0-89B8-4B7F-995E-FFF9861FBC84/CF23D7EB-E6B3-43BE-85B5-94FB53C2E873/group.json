@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "CF23D7EB-E6B3-43BE-85B5-94FB53C2E873",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 137,
+    "width": 248,
+    "x": 20,
+    "y": 10
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "65653EAB-29C9-4DF8-8984-43576E87A718"
+    },
+    {
+      "class": "bitmap",
+      "id": "27627CEA-2B37-47E4-8804-5A61061AD86B"
+    }
+  ],
+  "name": "aws-lambda",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

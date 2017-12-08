@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "6F1BAE63-5A96-4C10-B39F-62A02C07AAA1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 54,
+    "width": 318,
+    "x": 390,
+    "y": 545
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B0CE88F5-D5A4-485D-8B17-202AFC5DFADF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "566803D3-262E-4B71-B85E-E069CF7E4F7D"
+    },
+    {
+      "class": "bitmap",
+      "id": "CC9FB389-3DC5-4F66-9365-6AD9B5B22377"
+    },
+    {
+      "class": "text",
+      "id": "1714180B-10FF-4EA1-A100-99F122042B1E"
+    },
+    {
+      "class": "group",
+      "id": "601CF30B-64E9-4A39-A93F-E52AB71AAF66"
+    }
+  ],
+  "name": "Trello NOT selected Copy 4",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

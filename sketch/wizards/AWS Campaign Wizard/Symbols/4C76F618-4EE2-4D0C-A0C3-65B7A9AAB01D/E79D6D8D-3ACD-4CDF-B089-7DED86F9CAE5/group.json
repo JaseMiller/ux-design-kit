@@ -1,0 +1,54 @@
+{
+  "_class": "group",
+  "do_objectID": "E79D6D8D-3ACD-4CDF-B089-7DED86F9CAE5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 44,
+    "width": 473,
+    "x": 449,
+    "y": 13
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "C9D9CF57-E6AC-438D-A26B-D889302F6615"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "16F3AE02-E199-4F71-BC2C-D530E7B2C92B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E6108CF1-92E7-45F0-AAA6-2312BCE64392"
+    }
+  ],
+  "name": "Progress Bar",
+  "nameIsFixed": true,
+  "originalObjectID": "E79D6D8D-3ACD-4CDF-B089-7DED86F9CAE5",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
