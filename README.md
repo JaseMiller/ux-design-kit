@@ -1,5 +1,5 @@
 # UX Design Kit
-## v 0.0.0
+## v 0.0.1
 
 Link to Abstract repo for Sketch components and assets:
 
