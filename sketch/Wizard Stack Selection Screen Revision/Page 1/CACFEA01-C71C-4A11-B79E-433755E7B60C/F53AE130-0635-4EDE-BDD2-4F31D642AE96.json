@@ -31,11 +31,14 @@
   "name": "Checkbox Checked",
   "nameIsFixed": false,
   "originalObjectID": "C211A42A-7E22-4819-9A41-ED60B9ECD888",
+  "overrideValues": [
+  ],
   "overrides": {
   },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

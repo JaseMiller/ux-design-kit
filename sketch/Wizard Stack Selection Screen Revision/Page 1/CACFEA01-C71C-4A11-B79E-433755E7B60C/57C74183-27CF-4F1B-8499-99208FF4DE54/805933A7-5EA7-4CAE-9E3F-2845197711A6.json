@@ -31,9 +31,14 @@
   "name": "Progress - Stage 2",
   "nameIsFixed": false,
   "originalObjectID": "3E20C734-CE02-431C-B87E-59B5DFBE7B1B",
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
