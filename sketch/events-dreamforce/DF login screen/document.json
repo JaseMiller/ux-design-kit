@@ -26,10 +26,17 @@
     ]
   },
   "meta": {
+<<<<<<< HEAD
     "appVersion": "48.1",
     "build": 47250,
     "commit": "c871c6c3fa8a2bc8ee8592fd0f4db2b9a32687dc",
     "version": 97
+=======
+    "appVersion": "47.1",
+    "build": 45422,
+    "commit": "c871c6c3fa8a2bc8ee8592fd0f4db2b9a32687dc",
+    "version": 95
+>>>>>>> parent of 865200d... Crazy button test (for later reversion)
   },
   "pages": [
     "Page 1"
