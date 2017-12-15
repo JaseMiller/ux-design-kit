@@ -1,2 +1,2 @@
-# Ignoring all Sketch files to test keeping bandwidths low
-**.sketch
+# Ignoring all Sketch files to keep bandwidths low
+*.sketch
