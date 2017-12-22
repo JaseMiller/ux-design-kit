@@ -1,0 +1,108 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "6D2B8640-201A-4D66-ACE1-9C8E3B177F4B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": 1902,
+    "y": 79
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "FA2C36DD-748C-4568-B934-B9B58752800F"
+    },
+    {
+      "class": "text",
+      "id": "862E5227-65D5-471E-928A-26C90D4A8A1A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "340B8AB6-3E10-4ADF-BEB2-383FF4483FB9"
+    },
+    {
+      "class": "bitmap",
+      "id": "A29EB730-AC9F-45E5-8600-764161E1A202"
+    },
+    {
+      "class": "text",
+      "id": "DEEA4911-72FD-4AFB-8CB0-59D46ECCABB5"
+    },
+    {
+      "class": "group",
+      "id": "97388680-AF1B-43FD-BC6D-7A343ED28858"
+    },
+    {
+      "class": "group",
+      "id": "5F25BB29-4B83-434F-8AFC-7D249F58AA9B"
+    },
+    {
+      "class": "group",
+      "id": "2F36FFF5-2579-47BE-9FDC-99063D4EF326"
+    },
+    {
+      "class": "group",
+      "id": "3DBC4041-C649-4AFB-8096-664E1EDF3D73"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AD97AED5-0725-461C-835A-BE0940E4D295"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "003BEA11-DE5D-4D3D-B8AB-172BEAE9CB84"
+    }
+  ],
+  "name": "iPhone 7",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
