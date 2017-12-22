@@ -1,0 +1,196 @@
+{
+  "_class": "page",
+  "do_objectID": "151DEDF5-626D-44FA-8041-30993EF8CBDD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -382,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "3407A056-FB0D-43AC-8C0C-90A324A59F48"
+    },
+    {
+      "class": "artboard",
+      "id": "707C4D79-FA13-4CC0-9E1A-5E384F8222A2"
+    },
+    {
+      "class": "artboard",
+      "id": "E7817D49-D80A-4ACA-BF64-D04EAB32BD2E"
+    },
+    {
+      "class": "artboard",
+      "id": "9304AEBD-F2DC-4E44-8A85-8AAD4C57DBF9"
+    },
+    {
+      "class": "artboard",
+      "id": "11143FE6-BE90-470A-B5EC-3963E6BDAE9C"
+    },
+    {
+      "class": "artboard",
+      "id": "44C6AD7C-0249-4C40-ADA9-295FDD7A4527"
+    },
+    {
+      "class": "artboard",
+      "id": "E47BE4FC-EB77-4393-BAE1-55C3F2D27466"
+    },
+    {
+      "class": "artboard",
+      "id": "232E4C07-4DC4-46B7-B883-9AC50D2B5ACF"
+    },
+    {
+      "class": "artboard",
+      "id": "B4B4EA72-6C7A-4CA2-A700-B9B85AB94AFD"
+    },
+    {
+      "class": "artboard",
+      "id": "DC4F3322-92D7-4563-8699-98F8522E346D"
+    },
+    {
+      "class": "artboard",
+      "id": "EDBF11D1-B9A5-4AF2-874F-A724E9A1480E"
+    },
+    {
+      "class": "artboard",
+      "id": "3AEF640A-EB0E-44C5-A1CC-5CE6FE185FE6"
+    },
+    {
+      "class": "artboard",
+      "id": "1A05B2BE-241F-43D7-A78F-46D302189308"
+    },
+    {
+      "class": "artboard",
+      "id": "598AF47C-A113-4016-ADFC-4F0038917058"
+    },
+    {
+      "class": "artboard",
+      "id": "167B98F1-F33E-4F5C-A403-BCE883D155AF"
+    },
+    {
+      "class": "artboard",
+      "id": "DE46A5D7-DFD4-4506-8224-13CACC8881AF"
+    },
+    {
+      "class": "artboard",
+      "id": "1CCBF077-4FCB-4263-8CFF-67ED4293D09C"
+    },
+    {
+      "class": "artboard",
+      "id": "74D8BDD2-368D-41D9-B955-6924E2A27102"
+    },
+    {
+      "class": "artboard",
+      "id": "1E3167A1-DF99-44B9-B573-65E987496D5B"
+    },
+    {
+      "class": "artboard",
+      "id": "109A35E3-9455-43BD-9CC5-57F156CC0E60"
+    },
+    {
+      "class": "artboard",
+      "id": "2F297D2F-2B71-4980-8695-A0F41FCD484A"
+    },
+    {
+      "class": "artboard",
+      "id": "963FCCC7-1D6D-4869-89E7-2B18C3F62798"
+    },
+    {
+      "class": "artboard",
+      "id": "6CEC907F-667B-44D0-8ABC-6DD2F52D3FBE"
+    },
+    {
+      "class": "artboard",
+      "id": "7D15BB7E-FAB8-43A6-B278-C90F4A5EA848"
+    },
+    {
+      "class": "bitmap",
+      "id": "BFCFACFC-C806-4421-B9B1-CD942C7EEEAD"
+    },
+    {
+      "class": "bitmap",
+      "id": "C7EEF894-0215-4910-AE9D-27C586FBBBC1"
+    },
+    {
+      "class": "bitmap",
+      "id": "24BA851E-AD28-4CB3-A6FA-BD4C663BAEB2"
+    },
+    {
+      "class": "bitmap",
+      "id": "574971D1-80FE-4C14-AD75-0DA982601079"
+    },
+    {
+      "class": "bitmap",
+      "id": "3E0ED954-B222-4AEE-9DEC-721484F75269"
+    },
+    {
+      "class": "bitmap",
+      "id": "0EB3DB71-E2BC-4B44-B61D-0F4B788BB380"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "20BB06A8-29D9-4C16-9EE4-7368E6E15DE9"
+    },
+    {
+      "class": "bitmap",
+      "id": "D2BF0E75-518F-4166-90C0-E58EF5F2D149"
+    },
+    {
+      "class": "bitmap",
+      "id": "A6F04077-B860-4369-85DB-C606D4DE7728"
+    },
+    {
+      "class": "artboard",
+      "id": "36C19CBF-8159-4C34-B381-99BB17438F79"
+    }
+  ],
+  "name": "Tablet",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.betterthantomorrow.sketch.distributor": {
+      "distributorDimension": 1,
+      "distributorSpacing": "30"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -253,
+    "guides": [
+    ]
+  }
+}
