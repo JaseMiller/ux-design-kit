@@ -25,16 +25,20 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 2,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "Status Bar/White/Base",
   "nameIsFixed": false,
+  "originalObjectID": "C0E2C93F-EE31-4431-A8F8-6072C3341CB1",
+  "overrideValues": [
+  ],
   "overrides": {
   },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

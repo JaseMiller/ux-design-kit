@@ -30,9 +30,15 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "nav button copy 16",
   "nameIsFixed": false,
+  "originalObjectID": "9ECA8299-C10C-46EF-8812-DE6805122549",
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

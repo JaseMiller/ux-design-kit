@@ -30,11 +30,15 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "Keyboards/Dark/Return",
   "nameIsFixed": false,
+  "originalObjectID": "04C9E2F2-BEFB-49D4-822E-A00AF9D84507",
+  "overrideValues": [
+  ],
   "overrides": {
   },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
