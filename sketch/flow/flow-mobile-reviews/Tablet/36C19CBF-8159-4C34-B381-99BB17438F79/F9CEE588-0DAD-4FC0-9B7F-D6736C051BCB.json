@@ -30,11 +30,15 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "Medium Footer",
   "nameIsFixed": false,
+  "originalObjectID": "192D219B-3EAE-47F9-8FD5-269B89777D9E",
+  "overrideValues": [
+  ],
   "overrides": {
   },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

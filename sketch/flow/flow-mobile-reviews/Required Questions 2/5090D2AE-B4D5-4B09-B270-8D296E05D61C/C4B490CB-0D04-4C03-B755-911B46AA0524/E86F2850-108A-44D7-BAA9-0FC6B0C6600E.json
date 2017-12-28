@@ -30,11 +30,15 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "Checkbox Checked",
   "nameIsFixed": false,
+  "originalObjectID": "62B8C589-8E2F-468E-819D-4243978C42C6",
+  "overrideValues": [
+  ],
   "overrides": {
   },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

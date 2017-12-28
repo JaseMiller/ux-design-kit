@@ -30,11 +30,15 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "Status Bar/Black/Base",
   "nameIsFixed": true,
+  "originalObjectID": "75ACACFF-84C6-4C50-ACBC-0EB63A45DA9A",
+  "overrideValues": [
+  ],
   "overrides": {
   },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
