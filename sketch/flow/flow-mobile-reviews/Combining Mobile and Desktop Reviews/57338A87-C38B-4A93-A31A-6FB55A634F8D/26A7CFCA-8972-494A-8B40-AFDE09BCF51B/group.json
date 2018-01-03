@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "26A7CFCA-8972-494A-8B40-AFDE09BCF51B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 139,
+    "width": 1452,
+    "x": -3,
+    "y": 36
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "8CF4D4FA-14FD-4B52-A0D4-410E2026BCC8"
+    },
+    {
+      "class": "group",
+      "id": "D74EA229-429F-4B71-A980-3FE2853C99B2"
+    },
+    {
+      "class": "group",
+      "id": "C8636ED7-3929-4AE3-9270-28965FCA2EFC"
+    }
+  ],
+  "name": "Desktop Header",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

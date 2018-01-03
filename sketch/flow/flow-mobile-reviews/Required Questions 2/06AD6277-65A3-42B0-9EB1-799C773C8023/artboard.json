@@ -1,0 +1,115 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "06AD6277-65A3-42B0-9EB1-799C773C8023",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": 686,
+    "y": 1383
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      327,
+      48
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E8A38A7D-DFF2-4BDD-9FCC-898C723CBD3B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "92D51FA7-6C9A-48D0-A742-DF46AC1DFA88"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4509A8DF-61FC-42A4-8F02-6483637B25B4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FB510E76-62C5-4A87-AD36-1CC7EEB44A4A"
+    },
+    {
+      "class": "group",
+      "id": "A58C2CF1-5AD0-4CD8-B75E-392ACED2693A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "29BE0E57-3DBD-4326-8F5B-4B7FA6AF066B"
+    },
+    {
+      "class": "group",
+      "id": "AABA84F1-21CF-4D9E-8F34-FC1D0FD60D6D"
+    },
+    {
+      "class": "group",
+      "id": "1150BA5E-C3E3-4B77-9CA7-FD934065CEE4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "11014996-8D70-4D96-ADEE-F825D4CDD612"
+    },
+    {
+      "class": "group",
+      "id": "C25D6D81-A049-46D9-817E-6590ECD643BA"
+    }
+  ],
+  "name": "Mobile Review Title Complete2@2x",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

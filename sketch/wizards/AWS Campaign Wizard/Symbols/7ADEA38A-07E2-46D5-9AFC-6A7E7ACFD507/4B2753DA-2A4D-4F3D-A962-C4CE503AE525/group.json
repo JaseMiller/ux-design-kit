@@ -1,0 +1,46 @@
+{
+  "_class": "group",
+  "do_objectID": "4B2753DA-2A4D-4F3D-A962-C4CE503AE525",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 19,
+    "width": 19,
+    "x": 250,
+    "y": 152
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "6A226093-5C1B-4EF8-949B-6F05DD45C5F3"
+    }
+  ],
+  "name": "logo85",
+  "nameIsFixed": false,
+  "originalObjectID": "4B2753DA-2A4D-4F3D-A962-C4CE503AE525",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
