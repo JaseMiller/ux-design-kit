@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "do_objectID": "5DC0A330-33F5-4283-8875-A238BA6B6CED",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 30,
+    "width": 107.1428571428572,
+    "x": 36,
+    "y": 21
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "62211B57-CBE5-46A7-8F43-1E62AD722B81"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8628DCBC-368B-46A7-8D97-62F63951785E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "044D24CE-787B-4DE5-B1E5-D383CD77B987"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "70EE73BA-2A42-429A-A2FA-CCECCBEF7B56"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "ED2A389E-E020-449D-BEC7-02AA1EE59010"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9836011F-9980-4BAA-96B6-8BD2A1B985D1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AB5A883A-3058-4A19-811A-33B26DDD0AD0"
+    }
+  ],
+  "name": "G2 Logo",
+  "nameIsFixed": true,
+  "originalObjectID": "5DC0A330-33F5-4283-8875-A238BA6B6CED",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

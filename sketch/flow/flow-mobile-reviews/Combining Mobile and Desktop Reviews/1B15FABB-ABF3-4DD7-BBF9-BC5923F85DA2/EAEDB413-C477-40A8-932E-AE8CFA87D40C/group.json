@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "EAEDB413-C477-40A8-932E-AE8CFA87D40C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 431,
+    "width": 379,
+    "x": -2,
+    "y": 4271
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E5D81C86-C4D6-4AE1-B097-015F52DCA660"
+    },
+    {
+      "class": "group",
+      "id": "2EFC6274-5A6E-4CB0-9878-35715028BF93"
+    },
+    {
+      "class": "text",
+      "id": "7B2B01F2-D433-4A8B-B496-2BBCF7DAA5C8"
+    },
+    {
+      "class": "group",
+      "id": "0E269216-C117-4F38-999C-0C0F53C099CE"
+    }
+  ],
+  "name": "Section / Status Check",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

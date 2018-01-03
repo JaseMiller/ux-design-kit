@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "A82B346E-ABC6-45B8-BBD8-75CBE9A6F2F5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 177,
+    "width": 277,
+    "x": 863,
+    "y": 792
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 1,
+  "masterInfluenceEdgeMinXPadding": 1,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Solution Card Copy 67",
+  "nameIsFixed": false,
+  "originalObjectID": "2B2D2BF7-FCE0-42B6-A8D7-56D139B59416",
+  "overrides": {
+    "2E82C97B-2AD5-41CA-AE32-AD154C8B7BC0": {
+      "symbolID": "22354CCA-8067-4394-9FF8-C95C54D5FF78"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "8AD2D2B3-3171-4697-B992-92D59C6B63A9",
+  "userInfo": {
+  },
+  "verticalSpacing": 0
+}

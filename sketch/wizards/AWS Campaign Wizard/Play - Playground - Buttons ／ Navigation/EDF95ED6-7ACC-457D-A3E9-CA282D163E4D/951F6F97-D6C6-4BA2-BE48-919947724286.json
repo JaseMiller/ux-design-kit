@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "951F6F97-D6C6-4BA2-BE48-919947724286",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 177,
+    "width": 277,
+    "x": 305,
+    "y": 513
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 1,
+  "masterInfluenceEdgeMinXPadding": 1,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Reviewed",
+  "nameIsFixed": false,
+  "originalObjectID": "2B2D2BF7-FCE0-42B6-A8D7-56D139B59416",
+  "overrides": {
+    "2E82C97B-2AD5-41CA-AE32-AD154C8B7BC0": {
+      "0DD356DE-B051-468D-B22D-7E4445CE1ABA": "Reviewed today",
+      "CB06B052-8256-49D2-8A4E-9E0439052546": " ",
+      "F7DE06F9-A0EF-47B7-99D8-EF13A25B8C26": " ",
+      "symbolID": "F8FDC413-8C83-4643-BCE8-7C5AF89F3BA0"
+    },
+    "32B3F785-070B-430E-B9A6-3557C7A281B3": "Toast",
+    "4B9A5B10-9FB2-4BA6-9D6C-21C20170215C": "Point of Sale",
+    "EA71FBD7-ABFE-4EDB-AD31-D5C81ED644EE": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/d06b21280839f47081dcca45cd4d2b15759a5d87",
+      "_ref_class": "MSImageData"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "8AD2D2B3-3171-4697-B992-92D59C6B63A9",
+  "verticalSpacing": 0
+}

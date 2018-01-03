@@ -1,0 +1,51 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "EB52F4F2-BAF8-4BDB-AA24-A648CCAA7C2D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 56,
+    "width": 922,
+    "x": 23,
+    "y": 25
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 1,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "G2Crowd Header",
+  "nameIsFixed": false,
+  "originalObjectID": "4C76F618-4EE2-4D0C-A0C3-65B7A9AAB01D",
+  "overrides": {
+    "C9D9CF57-E6AC-438D-A26B-D889302F6615": {
+      "symbolID": "C7B251BD-2BF2-4667-809E-D8F66E4860EE"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "C5AF8FE0-A051-42FA-9D14-5495BEA1E8FC",
+  "verticalSpacing": 0
+}

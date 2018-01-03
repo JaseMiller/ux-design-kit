@@ -1,0 +1,147 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "D14AAE41-9197-4A62-BA29-3B8F52439351",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1024,
+    "width": 1440,
+    "x": -1733,
+    "y": 475
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "219F5D02-2321-4B7F-B868-81E11A4928A6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9BE899E8-3EBD-4A8E-9194-FF15F708B4BE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CEF5A3DD-3519-409D-B408-46C717857ABD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2F35974C-46EF-4B0B-BEB1-6BFB4AD90BBD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0DED91F3-1419-4216-821B-4D92FCF87523"
+    },
+    {
+      "class": "group",
+      "id": "9C873DE3-5DCA-4391-B124-3413F62B72D8"
+    },
+    {
+      "class": "group",
+      "id": "5BDE6CD2-2AB4-48B9-8FC5-55B16773DCBC"
+    },
+    {
+      "class": "group",
+      "id": "B19ECD43-9EDB-4046-8983-633A013AA349"
+    },
+    {
+      "class": "group",
+      "id": "C8C2E908-9C74-4C51-B82A-B8F993BCD4E6"
+    },
+    {
+      "class": "text",
+      "id": "500D290C-C7CD-426A-AE84-BC9E7D2AEBAB"
+    },
+    {
+      "class": "group",
+      "id": "D2386537-A8DF-4741-927C-133F3F122CC0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7AF25169-9FD5-40A5-9005-FADAB38870A2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FEAA5D74-0EE7-45DD-B33A-7FA45934E552"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "326CF11B-0CF9-4828-B7C8-A261D791707D"
+    }
+  ],
+  "name": "Wizard Navigation Idea - 1.1",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
