@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "ACF2C61B-EC99-435E-90BE-169AB8FE648D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 100,
+    "width": 339,
+    "x": 12,
+    "y": 84
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "DF1F5B0C-DBE3-4C3A-9325-9538953FA3F7"
+    },
+    {
+      "class": "bitmap",
+      "id": "7FE8CE17-5E14-4ADF-90C1-CD7636377849"
+    },
+    {
+      "class": "text",
+      "id": "D70E6EDA-C9F9-487D-91EA-E830A3901814"
+    },
+    {
+      "class": "text",
+      "id": "7670DFFE-ECC4-4139-8EF7-059EA1080748"
+    }
+  ],
+  "name": "Product Logo and Title",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

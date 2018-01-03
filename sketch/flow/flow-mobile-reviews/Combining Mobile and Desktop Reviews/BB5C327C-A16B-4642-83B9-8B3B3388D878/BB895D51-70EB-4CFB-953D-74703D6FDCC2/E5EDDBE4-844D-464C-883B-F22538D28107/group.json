@@ -1,0 +1,69 @@
+{
+  "_class": "group",
+  "do_objectID": "E5EDDBE4-844D-464C-883B-F22538D28107",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 42,
+    "width": 475,
+    "x": 486,
+    "y": 29
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "text",
+      "id": "58790992-C6EE-41DF-ACAE-BD56EA518F5D"
+    },
+    {
+      "class": "text",
+      "id": "C6F9997E-BDAC-4F7D-9607-77400DE9B7F7"
+    },
+    {
+      "class": "text",
+      "id": "45E51B85-0020-4A37-B22A-F0007CC0FFFD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0D2FE94E-9DC3-4F30-A503-CDCDC20F1BB0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2E0523D6-3701-401C-87A9-D4A88EA7FCD7"
+    },
+    {
+      "class": "group",
+      "id": "41BAEECB-4448-4D97-B4F7-918BA3A66458"
+    },
+    {
+      "class": "group",
+      "id": "1DDFF632-F347-41C0-84C1-6C6EC30FFA9C"
+    }
+  ],
+  "name": "Progress Bar Stage 2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

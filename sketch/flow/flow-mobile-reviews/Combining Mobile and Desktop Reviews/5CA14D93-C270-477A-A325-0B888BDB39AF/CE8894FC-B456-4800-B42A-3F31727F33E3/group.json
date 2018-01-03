@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "CE8894FC-B456-4800-B42A-3F31727F33E3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 210,
+    "width": 321,
+    "x": 12,
+    "y": 1646
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0F3905EF-0C8F-492B-9E3F-CC13E4EF2EBC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3F5622E9-89C0-40D2-8A42-B61D9C83DE5D"
+    },
+    {
+      "class": "text",
+      "id": "3079DD3D-8606-4791-9B74-62787E7D3E07"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3D036D82-F965-4243-AF46-F3A4C021DB27"
+    },
+    {
+      "class": "text",
+      "id": "57684447-FC52-46A3-BCE3-1D7C7FB352FC"
+    }
+  ],
+  "name": "Question 4",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
