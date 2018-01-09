@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "7400258A-1395-4743-AE49-7BF0AE4FB5E4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 142,
+    "width": 1024,
+    "x": 372,
+    "y": 719
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "692C7E5B-3CD7-48CD-BCE6-94B980A24AD0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4BD0C5FC-4BD1-4DBD-AC31-3E122D10A365"
+    },
+    {
+      "class": "text",
+      "id": "A99EE5D1-BA26-44B8-94AC-F90103624B47"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "85B8B631-7485-48D5-BEC1-204AAF6A2560"
+    },
+    {
+      "class": "group",
+      "id": "A0B045C8-025B-4206-A777-D7660C60800F"
+    }
+  ],
+  "name": "CTA - Add Stack",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
