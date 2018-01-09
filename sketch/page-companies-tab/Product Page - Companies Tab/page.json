@@ -1,0 +1,78 @@
+{
+  "_class": "page",
+  "do_objectID": "9ceebdf0-f4fb-11e7-8b31-ab005422ced3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -333,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "C6430B39-62A4-4BCD-AD60-0D63C7BA4DF7"
+    },
+    {
+      "class": "artboard",
+      "id": "D08F84FA-303C-4720-98AA-246FB0C6B1FC"
+    },
+    {
+      "class": "artboard",
+      "id": "7B35C66E-3FD3-44CB-AB47-6FD46BD688A5"
+    },
+    {
+      "class": "artboard",
+      "id": "614C89A8-3C4F-4D56-A862-D4F7055F372E"
+    },
+    {
+      "class": "artboard",
+      "id": "76D262C8-553D-4CA6-B337-68C86E14C531"
+    },
+    {
+      "class": "text",
+      "id": "25C934DB-C5A5-4526-AD07-1A785C75A628"
+    }
+  ],
+  "name": "Product Page - Companies Tab",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -265,
+    "guides": [
+    ]
+  }
+}
