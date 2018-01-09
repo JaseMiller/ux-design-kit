@@ -1,0 +1,69 @@
+{
+  "_class": "group",
+  "do_objectID": "CD10B8D1-29BB-4591-AE7C-3C47CE92F355",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 150,
+    "width": 991,
+    "x": 384,
+    "y": 695
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E34D0399-3BE8-400E-B8A5-AB748D817014"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A38D6F2F-193B-4064-9877-B174834723FD"
+    },
+    {
+      "class": "text",
+      "id": "6CCBBACF-7C72-4B2B-8D0B-E17D8475B34F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "351202E4-030E-4732-9DE5-76E9443D3A5F"
+    },
+    {
+      "class": "text",
+      "id": "24525A69-133B-4252-A47E-1F0A44A354E1"
+    },
+    {
+      "class": "text",
+      "id": "3EAA109A-517D-4CAF-9B81-79749C8443FA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C051A114-34AD-407C-8DF9-0FDAEED114D3"
+    }
+  ],
+  "name": "Company Box - hidden",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

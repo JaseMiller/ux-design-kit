@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "9FBE4823-248E-4ED7-9D5E-E885FD30191D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 2499,
+    "width": 1411,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "583803CE-91F6-440A-B8D3-206D7F27DDD4"
+    },
+    {
+      "class": "group",
+      "id": "ECC3F2EE-6F89-4D1B-8F17-413C9D189D12"
+    },
+    {
+      "class": "group",
+      "id": "1733230E-6D49-4158-9D2D-F0E3B9672B77"
+    },
+    {
+      "class": "group",
+      "id": "E8157FA5-DE37-47A6-92F5-551958EC38B7"
+    }
+  ],
+  "name": "Sidebar and Background from Reviews Tab",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

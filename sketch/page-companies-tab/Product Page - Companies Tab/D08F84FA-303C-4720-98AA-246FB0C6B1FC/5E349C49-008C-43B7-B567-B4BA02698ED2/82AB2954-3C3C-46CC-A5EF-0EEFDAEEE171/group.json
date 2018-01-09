@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "82AB2954-3C3C-46CC-A5EF-0EEFDAEEE171",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 35,
+    "width": 199,
+    "x": 36,
+    "y": 62
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "44645B7B-7CA4-4435-AC6D-DE5993B9950C"
+    },
+    {
+      "class": "bitmap",
+      "id": "5FCE6F36-7258-49A1-B392-B77B5C7E81CC"
+    }
+  ],
+  "name": "People avatars",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
