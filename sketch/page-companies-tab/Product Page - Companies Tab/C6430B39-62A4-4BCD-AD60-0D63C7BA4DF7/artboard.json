@@ -29,7 +29,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 3426,
+    "height": 1713,
     "width": 1410,
     "x": 5692,
     "y": -166
@@ -48,15 +48,11 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
       "id": "C106CFEF-57D0-4F90-A8AD-9C6DCAF4B8E9"
-    },
-    {
-      "class": "group",
-      "id": "1FF8B956-21EB-4501-AAF3-9C9628BECDA7"
     },
     {
       "class": "group",
@@ -77,6 +73,10 @@
     {
       "class": "text",
       "id": "8709FE65-DC1D-4859-8331-2CD70C425FCD"
+    },
+    {
+      "class": "group",
+      "id": "2769B0E5-2E7D-4730-9777-35F4EFED20A5"
     }
   ],
   "name": "Product Page 3 - not logged in",

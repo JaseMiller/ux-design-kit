@@ -1,0 +1,79 @@
+{
+  "_class": "group",
+  "do_objectID": "0D420C2F-445C-4128-B16E-C99B633560E6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 70,
+    "width": 70,
+    "x": 1,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "97407982-8AD2-4940-9222-FF216BA22014"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "ECFA5A2E-AF54-4935-9127-35C547C87ED6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F357A063-A87E-42CF-9096-E5FB69954D35"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E1EFC8B2-0F55-442B-9F79-EB657FA463F4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CF1D4DBF-0FB6-4DB1-9BDF-E3CAC2C675F5"
+    }
+  ],
+  "name": "Contactually Logo",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
