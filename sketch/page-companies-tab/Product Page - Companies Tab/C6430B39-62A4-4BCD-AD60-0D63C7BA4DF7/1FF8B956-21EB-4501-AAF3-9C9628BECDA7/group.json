@@ -1,6 +1,6 @@
 {
   "_class": "group",
-  "do_objectID": "3B7AF5BF-2308-4D4C-B664-AF91E49C86C2",
+  "do_objectID": "1FF8B956-21EB-4501-AAF3-9C9628BECDA7",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 142,
-    "width": 1024,
-    "x": 372,
-    "y": 308
+    "height": 150,
+    "width": 990,
+    "x": 384,
+    "y": 284
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -27,26 +27,14 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "4C0D9C0A-FE05-4A26-A031-4E02702BE47C"
+      "id": "50EF5AEA-9912-4289-B4D5-840838A87E5D"
     },
     {
       "class": "shapeGroup",
-      "id": "53B93DD5-C57F-4EB6-A620-02FC312ACB66"
-    },
-    {
-      "class": "text",
-      "id": "DD79F9EA-05BC-4AD9-93FC-82CA1C733F4B"
-    },
-    {
-      "class": "group",
-      "id": "EA313125-56EA-4A70-9D4B-9A381D760DBF"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "A562F482-5DE4-42EF-B494-24E067F3B13C"
+      "id": "39AC0B73-B084-4699-9F06-7630ECDE1758"
     }
   ],
-  "name": "CTA - Login",
+  "name": "Company Box - hidden",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
