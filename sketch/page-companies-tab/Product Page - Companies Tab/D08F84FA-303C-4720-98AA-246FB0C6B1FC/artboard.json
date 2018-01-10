@@ -29,7 +29,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 3426,
+    "height": 1713,
     "width": 1410,
     "x": 4182,
     "y": -166
@@ -87,6 +87,10 @@
       "id": "74A3552F-CB8A-4BEF-9500-9EC1EBDBA4D8"
     },
     {
+      "class": "group",
+      "id": "79BC901E-F495-489B-BEA9-9BEC4E139D01"
+    },
+    {
       "class": "shapeGroup",
       "id": "495BCDC2-4DBE-4373-9AEC-B046E3037D42"
     },
@@ -97,6 +101,10 @@
     {
       "class": "text",
       "id": "72A9FA93-890E-440A-9598-2FD4B0EBC6A8"
+    },
+    {
+      "class": "group",
+      "id": "D975E50A-573A-4B68-A85C-E10585FFF18D"
     }
   ],
   "name": "Product Page 3 - logged in",
