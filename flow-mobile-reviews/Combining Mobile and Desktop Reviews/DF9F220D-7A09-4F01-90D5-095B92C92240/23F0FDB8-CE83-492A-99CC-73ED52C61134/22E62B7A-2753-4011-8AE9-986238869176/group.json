@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "22E62B7A-2753-4011-8AE9-986238869176",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 293,
+    "x": 42,
+    "y": 368
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9E5B01AB-208D-4AE7-95F0-4A40260F6CD1"
+    },
+    {
+      "class": "text",
+      "id": "A9186FD0-9615-4613-B1BF-9C4F45AB2B60"
+    }
+  ],
+  "name": "Additional Questions Button",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

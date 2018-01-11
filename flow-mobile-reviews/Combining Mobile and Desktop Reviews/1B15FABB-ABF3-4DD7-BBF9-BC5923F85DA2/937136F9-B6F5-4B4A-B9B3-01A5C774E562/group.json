@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "do_objectID": "937136F9-B6F5-4B4A-B9B3-01A5C774E562",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 293,
+    "x": 40,
+    "y": 4738
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "33D9DCFD-4320-4B46-AFA7-5174AAA21235"
+    },
+    {
+      "class": "text",
+      "id": "DC4AE327-0405-4E84-867B-98988AA2EB2E"
+    }
+  ],
+  "name": "Submit Button",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 0,
+      "linkType": 0,
+      "maintainScrollPositionAfterGesture": 1,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "5CA14D93-C270-477A-A325-0B888BDB39AF",
+      "transition": 0
+    }
+  }
+}

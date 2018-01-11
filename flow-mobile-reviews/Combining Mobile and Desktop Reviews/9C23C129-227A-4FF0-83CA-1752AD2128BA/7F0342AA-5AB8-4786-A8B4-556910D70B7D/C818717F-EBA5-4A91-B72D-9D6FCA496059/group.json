@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "C818717F-EBA5-4A91-B72D-9D6FCA496059",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 182,
+    "width": 264,
+    "x": 20,
+    "y": 161
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "B00989A8-4996-42E8-AEAC-65AE54DBAF4C"
+    },
+    {
+      "class": "text",
+      "id": "ABB68A98-D3FC-4F4B-B221-80B90D32E9D7"
+    },
+    {
+      "class": "group",
+      "id": "1A1DEF05-1C8D-4B2E-9727-B2C07382298A"
+    },
+    {
+      "class": "group",
+      "id": "CB9E349F-E927-4A7B-B541-A349ED08A006"
+    },
+    {
+      "class": "group",
+      "id": "C79C5342-BD17-47DF-8AAE-00D34A34464F"
+    },
+    {
+      "class": "group",
+      "id": "D9A87A31-CA58-40CC-9F3B-6747152741EB"
+    }
+  ],
+  "name": "Review Grade",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
