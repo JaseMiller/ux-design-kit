@@ -1,0 +1,177 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.996078431372549,
+    "green": 0.996078431372549,
+    "red": 0.996078431372549
+  },
+  "do_objectID": "5CA14D93-C270-477A-A325-0B888BDB39AF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 4814,
+    "width": 375,
+    "x": 6249,
+    "y": -1744
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      327,
+      48
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "99DB02A2-E0A7-49DF-B6C3-B5372D7BF9CB"
+    },
+    {
+      "class": "group",
+      "id": "AA85A6F7-3213-4A2D-BE6F-5C2193EFD525"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E07A6606-0A39-4FEF-8C0D-F54335093204"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "342CF4C2-2BD4-435C-AC07-C00C0417C3EB"
+    },
+    {
+      "class": "group",
+      "id": "34E5B4F2-29ED-4EDB-9D10-EFC2EA76B9CF"
+    },
+    {
+      "class": "group",
+      "id": "87BCABE6-A62A-42DE-8587-08E1734065F3"
+    },
+    {
+      "class": "group",
+      "id": "A9D14823-3347-4296-B158-4C259ACC99B9"
+    },
+    {
+      "class": "group",
+      "id": "2A0E2FDE-BD2F-4344-8883-3E240367400A"
+    },
+    {
+      "class": "group",
+      "id": "85F6B744-01B6-4D7E-89F9-94559FB35D5B"
+    },
+    {
+      "class": "group",
+      "id": "7B8DCF01-EC05-4C1F-AE5E-04026CD99AF8"
+    },
+    {
+      "class": "group",
+      "id": "A4A1099C-2D62-412D-9ABF-362101FDD6C5"
+    },
+    {
+      "class": "group",
+      "id": "B932CE72-ADF9-4175-AC3F-2E42452FEA04"
+    },
+    {
+      "class": "group",
+      "id": "38D57747-E316-446C-916E-F28203E6C4E8"
+    },
+    {
+      "class": "group",
+      "id": "CE8894FC-B456-4800-B42A-3F31727F33E3"
+    },
+    {
+      "class": "group",
+      "id": "172C9439-7B93-45CF-B7B2-A54C51EA473F"
+    },
+    {
+      "class": "group",
+      "id": "6B625B0D-0B99-4B00-B61B-01B1997277EC"
+    },
+    {
+      "class": "group",
+      "id": "EBE0B90B-9E0B-4497-82FB-4CCBD0FB4392"
+    },
+    {
+      "class": "text",
+      "id": "892432FA-4C9F-4BA0-968C-4D4F9AC82716"
+    },
+    {
+      "class": "group",
+      "id": "5CFB1687-BDC9-4860-A917-1168784CE7C6"
+    },
+    {
+      "class": "group",
+      "id": "32818E6B-E43E-4424-A19F-77D02565F9F2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8C7348CF-9DC3-405E-A3FB-45C4BEC9AD1F"
+    }
+  ],
+  "name": "Mobile Review Questions - Required 14",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

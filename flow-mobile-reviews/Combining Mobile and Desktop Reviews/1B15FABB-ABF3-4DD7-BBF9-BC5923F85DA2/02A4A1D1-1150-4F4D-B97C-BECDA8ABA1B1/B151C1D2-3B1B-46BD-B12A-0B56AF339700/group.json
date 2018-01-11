@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "B151C1D2-3B1B-46BD-B12A-0B56AF339700",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 375,
+    "x": 3,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "46316DE4-3980-4658-A8EA-5D7EBE5495F1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DF4E0039-94F9-4DFA-B06B-5A5883478259"
+    }
+  ],
+  "name": "Phone status bar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
